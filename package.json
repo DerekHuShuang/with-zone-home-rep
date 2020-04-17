@@ -7,6 +7,7 @@
     "start": "next start -p 5000"
   },
   "dependencies": {
+    "@aaxis/share-components": "latest",
     "next": "8.1.0",
     "react": "16.8.6",
     "react-dom": "16.8.6"
